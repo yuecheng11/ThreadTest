@@ -20,7 +20,6 @@ public:
 
 	void start();
 	void join();
-	unsigned int gettid();
 private:
 	virtual void run()=0;
 private:
